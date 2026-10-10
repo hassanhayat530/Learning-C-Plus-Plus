@@ -1,0 +1,5 @@
+node (0 {zero})
+node (1 {one})
+edge (0)-[0 {zero-one}]->(1)
+node (2 {two})
+edge (0)-[1 {zero-two}]->(2)

@@ -1,0 +1,4 @@
+SERIES;Game of Thrones;2011;fantasy;91;;8;83
+SERIES;The Big Bang Theory;2007;comedy;89;;12;279
+MOVIE;Pres prsty;2019;comedy;56;Petra Hrebickova 1979,Jiri Langmajer 1966;101
+
